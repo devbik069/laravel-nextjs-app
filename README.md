@@ -110,6 +110,7 @@ Clone repo
 ```
 git clone https://github.com/devbik069/laravel-nextjs-app.git
 
+cd  laravel-nextjs-app
 ```
 **Setup Backend Server (Laravel API)**
 
