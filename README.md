@@ -106,7 +106,7 @@ Built with **Next.js** using **React**, featuring:
 -   Styling: Bootstrap 5 with utility classes.
 
 ## Setup Project
-Clone a repo
+Clone repo
 ```
 git clone https://github.com/devbik069/laravel-nextjs-app.git
 
